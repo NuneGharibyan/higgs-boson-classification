@@ -80,7 +80,7 @@ Download the HIGGS dataset from [UCI ML Repository](https://archive.ics.uci.edu/
 jupyter notebook
 ```
 
----
+<!-- ---
 
 ## Key Findings
 
@@ -95,7 +95,7 @@ jupyter notebook
 
 ---
 
-<!-- ## Author
+## Author
 
 **Your Name**
 Diploma Project — [Your University Name]
