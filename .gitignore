@@ -1,0 +1,25 @@
+# Dataset (too large for git)
+data/
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python cache
+# __pycache__/
+# *.pyc
+# *.pyo
+# *.pyd
+
+# # Saved models (can be large)
+# models/*.pkl
+# models/*.h5
+# models/*.pt
+# models/*.joblib
+
+# Logs
+*.log
