@@ -16,10 +16,11 @@ venv/
 # *.pyd
 
 # # Saved models (can be large)
-# models/*.pkl
-# models/*.h5
-# models/*.pt
-# models/*.joblib
+models/*.pkl
+models/*.h5
+models/*.pt
+models/*.joblib
+models/*.csv
 
 # Logs
 *.log
